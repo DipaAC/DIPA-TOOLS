@@ -27,4 +27,4 @@ $ pip install requests
 Jika sudah selesai menjalankan command diatas
 kalian bisa ketok command berikut untuk melakukan scan
 
-tools.py -s <Nama domain yang ingin dituju>
+tools.py -s <Nama-domain-yang-ingin-dituju>
