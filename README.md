@@ -1,7 +1,7 @@
 # DIPA-TOOLS
 Downlod Dulu File Tools Di Atas
 
-Setelah download kalian ke Advanced Setting Environment Variables di tab bawah pilih path dan tambah 
+Setelah download kalian ke Advanced Setting Setelah Itu Ke Environment Variables di tab bawah pilih path dan tambah 
 C:\Users\ACER\Desktop\tools\ tapi sesuaikan dengan tempattapi kalian hilangkan tulisan tools.py seperti contoh saya.
 
 Setelah ke advanced setting jangan lupa
