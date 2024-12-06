@@ -2,7 +2,7 @@
 Downlod Dulu File Tools Di Atas
 
 Setelah download kalian ke Advanced Setting Setelah Itu Ke Environment Variables di tab bawah pilih path dan tambah 
-C:\Users\ACER\Desktop\tools\ tapi sesuaikan dengan tempattapi kalian hilangkan tulisan tools.py seperti contoh saya.
+C:\Users\ACER\Desktop\tools\ tapi sesuaikan dengan tempat, tapi kalian hilangkan tulisan tools.py ya seperti contoh saya.
 
 Setelah ke advanced setting jangan lupa
 kalian clone link berikut
