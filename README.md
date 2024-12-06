@@ -30,3 +30,6 @@ Jika sudah selesai menjalankan command diatas
 kalian bisa ketok command berikut untuk melakukan scan
 
 tools.py -s Nama Domain Yang Ingin kamu Tuju
+Jika mengalami Error atau Terlempar terus Pada VSCODE
+Bisa gunakan command 
+python tools.py -s Nama Domain Yang Ingin kamu Tuju
