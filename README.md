@@ -24,6 +24,8 @@ $ pip install colorama
 
 $ pip install requests
 
+$ cd subdolist
+
 Jika sudah selesai menjalankan command diatas
 kalian bisa ketok command berikut untuk melakukan scan
 
