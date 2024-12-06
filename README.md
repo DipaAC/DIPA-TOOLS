@@ -9,7 +9,7 @@ kalian clone link berikut
 
 Silakan Bukan Command promt atau terminal apapun
 Bisa juga menggunakan Gitbash
-git clone https://github.com/DipaAC/SubdoDipa.git
+https://github.com/DipaAC/SubdoDipa.git
 
 Setelah itu konfigure di bagian tools.bat bikin sesuai tempat penyimpanan 
 Kalau punya ku C:\Users\ACER\Desktop\tools\tools.py kalau kalian bisa dimana saja asalkan
