@@ -1,4 +1,4 @@
-# DIPA-TOOLS
+# DIPA-TOOLS (Untuk Windows)
 Downlod Dulu File Tools Di Atas
 
 Setelah download kalian ke Advanced Setting Setelah Itu Ke Environment Variables di tab bawah pilih path dan tambah 
@@ -33,3 +33,6 @@ tools.py -s Nama Domain Yang Ingin kamu Tuju
 Jika mengalami Error atau Terlempar terus Pada VSCODE
 Bisa gunakan command 
 python tools.py -s Nama Domain Yang Ingin kamu Tuju
+
+# DIPA-TOOLS (Untuk Ubuntu/Linux)
+$ git clone https://github.com/DipaAC/SubdoDipa.git
