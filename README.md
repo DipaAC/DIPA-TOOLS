@@ -7,6 +7,8 @@ C:\Users\ACER\Desktop\tools\ tapi sesuaikan dengan tempattapi kalian hilangkan t
 Setelah ke advanced setting jangan lupa
 kalian clone link berikut
 
+Silakan Bukan Command promt atau terminal apapun
+Bisa juga menggunakan Gitbash
 git clone https://github.com/DipaAC/SubdoDipa.git
 
 Setelah itu konfigure di bagian tools.bat bikin sesuai tempat penyimpanan 
