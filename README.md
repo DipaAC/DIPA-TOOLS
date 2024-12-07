@@ -30,7 +30,9 @@ $ python3 tools.py -s Nama domain
 
 Jangan lupa install python biasa gunakan link di atas
 Tetapi biasa nya linux sudah tersedia python jika ingin tau silakan gunakan command 
+
 Untuk python3 kalian coba
+
 $ python3 --version
 
 Untuk python biasa
