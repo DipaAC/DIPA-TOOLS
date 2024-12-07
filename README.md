@@ -8,7 +8,7 @@ jadi silakan install git bash
 https://git-scm.com/downloads
 setalah selesai install buka command prompt dan ikuti perintah dibawah
 
-$ 
+$ git clone https://github.com/DipaAC/DIPA-TOOLS.git
 
 $ pip install colorama
 
@@ -41,7 +41,7 @@ Jika bingung bisa di coba kedua dua nya
 
 Jika belom silakan install di https://www.python.org/downloads/
 
-$ git clone https://github.com/DipaAC/SubdoDipa.git
+$ git clone https://github.com/DipaAC/DIPA-TOOLS.git
 
 Informasi saja linux tidak perlu install git bash lagi karena sudah mempunyai applikasi bawaan yang di install pada saat kita install pertamakali
 
