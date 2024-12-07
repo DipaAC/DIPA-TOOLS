@@ -1,38 +1,64 @@
 # DIPA-TOOLS (Untuk Windows)
-Downlod Dulu File Tools Di Atas
 
-Setelah download kalian ke Advanced Setting Setelah Itu Ke Environment Variables di tab bawah pilih path dan tambah 
-C:\Users\ACER\Desktop\tools\ tapi sesuaikan dengan tempat, tapi kalian hilangkan tulisan tools.py ya seperti contoh saya.
+Install dulu python bebas python3 / python
+https://www.python.org/downloads/
 
-Setelah ke advanced setting jangan lupa
-kalian clone link berikut
+Untuk Git clone di windows tidak ada
+jadi silakan install git bash 
+https://git-scm.com/downloads
+setalah selesai install buka command prompt dan ikuti perintah dibawah
 
-Silakan Bukan Command promt atau terminal apapun
-Bisa juga menggunakan Gitbash
-https://github.com/DipaAC/SubdoDipa.git
-
-Setelah itu konfigure di bagian tools.bat bikin sesuai tempat penyimpanan 
-Kalau punya ku C:\Users\ACER\Desktop\tools\tools.py kalau kalian bisa dimana saja asalkan
-Konfigurasi nya di samakan dimana kalian meletakan file nya.
-
-Kalau sudah liat lagi python kalian apakah python3 atau pythob bisa jika python3 ubah di bat yang python menjadi
-python3 jika python biasa ubah menjadi python saya.
-
-Jalankan command di bawah
+$ 
 
 $ pip install colorama
 
 $ pip install requests
 
-$ cd SubdoDipa
+$ cd DIPA-TOOLS
 
-Jika sudah selesai menjalankan command diatas
-kalian bisa ketok command berikut untuk melakukan scan
+$ cd tools
 
-tools.py -s Nama Domain Yang Ingin kamu Tuju
-Jika mengalami Error atau Terlempar terus Pada VSCODE
-Bisa gunakan command 
-python tools.py -s Nama Domain Yang Ingin kamu Tuju
+Jika kamu menggunakan python biasa ikuti command dibawah
+
+$ python tools.py -s Nama Domain
+
+Jika kamu menggunakan python3 ikuti command dibawah
+
+$ python3 tools.py -s Nama domain
 
 # DIPA-TOOLS (Untuk Ubuntu/Linux)
+
+Jangan lupa install python biasa gunakan link di atas
+Tetapi biasa nya linux sudah tersedia python jika ingin tau silakan gunakan command 
+Untuk python3 kalian coba
+$ python3 --version
+
+Untuk python biasa
+
+$ python --version
+
+Jika bingung bisa di coba kedua dua nya
+
+Jika belom silakan install di https://www.python.org/downloads/
+
 $ git clone https://github.com/DipaAC/SubdoDipa.git
+
+Informasi saja linux tidak perlu install git bash lagi karena sudah mempunyai applikasi bawaan yang di install pada saat kita install pertamakali
+
+$ pip install colorama
+
+$ pip install requests
+
+$ cd DIPA-TOOLS
+
+$ cd tools
+
+Jika sudah
+
+Jika kmu menggunakan python3 maka kamu bisa
+
+$ python3 tools.py -s Nama domain
+
+Jika kamu menggunakan python biasa maka kamu bisa
+
+$ python tools.py -s Nama domain
